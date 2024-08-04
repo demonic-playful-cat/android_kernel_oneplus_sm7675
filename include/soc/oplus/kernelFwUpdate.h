@@ -1,1 +1,1 @@
-../../../../../vendor/oplus/kernel/touchpanel/kernelFwUpdate/kernelFwUpdate.h
+../../../oplus_ext/vendor/oplus/kernel/touchpanel/kernelFwUpdate/kernelFwUpdate.h

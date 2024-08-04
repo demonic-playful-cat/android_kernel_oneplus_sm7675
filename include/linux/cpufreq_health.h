@@ -1,1 +1,1 @@
-../../kernel/oplus_cpu/cpufreq_health/cpufreq_health.h
+../../oplus_ext/vendor/oplus/kernel/cpu/cpufreq_health/cpufreq_health.h

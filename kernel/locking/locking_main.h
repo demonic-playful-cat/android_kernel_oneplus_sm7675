@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/synchronize/oplus_locking.h
+../../oplus_ext/vendor/oplus/kernel/synchronize/oplus_locking.h

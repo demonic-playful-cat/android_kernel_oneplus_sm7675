@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/device_info/pogo_keyboard/pogo_common.h
+../../oplus_ext/vendor/oplus/kernel/device_info/pogo_keyboard/pogo_common.h

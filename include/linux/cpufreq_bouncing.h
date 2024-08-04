@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/cpu/cpufreq_bouncing/cpufreq_bouncing.h
+../../oplus_ext/vendor/oplus/kernel/cpu/cpufreq_bouncing/cpufreq_bouncing.h

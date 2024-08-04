@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/cpu/sched/sched_assist/sa_common_struct.h
+../../oplus_ext/vendor/oplus/kernel/cpu/sched/sched_assist/sa_common_struct.h

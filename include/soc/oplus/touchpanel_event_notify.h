@@ -1,1 +1,1 @@
-../../../../../vendor/oplus/kernel/touchpanel/touchpanel_notify/touchpanel_event_notify.h
+../../../oplus_ext/vendor/oplus/kernel/touchpanel/touchpanel_notify/touchpanel_event_notify.h
